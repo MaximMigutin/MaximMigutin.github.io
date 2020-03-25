@@ -1,0 +1,22 @@
+<div class="col mt-4">
+  <div class="timeline-body">
+    {% for item in site.data.experience %}
+      <div class="timeline-item">
+        <div class="content">
+
+          <h3>{{ item.title }}</h3>
+          <h6 class="date">
+            {{ item.from }} — {{ item.to }}
+            <br>
+<!--            {{ item.image }}-->
+<!--            <br>-->
+            <font color="#0C69AF"> <b>{{ item.institution }}</b></font>
+<!--            <br>-->
+          </h6>
+
+          <p>{{ item.description }}</p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

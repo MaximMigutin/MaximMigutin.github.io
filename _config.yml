@@ -1,0 +1,55 @@
+### Site Settings ###
+title               : "Maxim Migutin"
+description         : "Welcome! I am a <font color='#0C69AF'><b>Data Scientist</b></font> with a background in
+                      <font color='#0C69AF'><b>Mathematical Economics</b></font>
+                      and
+                      <font color='#0C69AF'><b>Operations Research</b></font> ."
+url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
+baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
+repository          : YoussefRaafatNasry/portfolYOU    # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
+#remote_theme       : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
+
+### Author Info ###
+author:
+  name              : Maxim Migutin
+  image             : https://media-exp1.licdn.com/dms/image/C4D03AQG1zVOJUUxmQA/profile-displayphoto-shrink_200_200/0?e=1588204800&v=beta&t=Ixa6rFRVCslqVI57Fty5II2bXxJ1lVCedQcG6xjh_0Y
+  email             : maximmigutin"at"gmail.com
+  github            : MaximMigutin
+# gitlab            : your_username
+# instagram         : your_username
+  linkedin          : maxim-migutin
+# medium            : 
+
+
+### Pagination ###
+paginate: 6
+paginate_path: "/articles/page-:num/"
+
+
+### Posts Permalink ###
+permalink: articles/:title
+weight: 6
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
+
+### Exclude from processing ###
+exclude:
+- README.md
+- CONTRIBUTING.md
+- LICENSE
+- Gemfile
+- Gemfile.lock

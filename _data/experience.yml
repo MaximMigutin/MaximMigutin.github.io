@@ -1,0 +1,51 @@
+- title: Lead Data Scientist
+  image: "<img src='/images/yum.png' style='width:142px;height:42px;' align='left'>"
+  institution: Yum! Brands
+  from: October 2019
+  to: Present
+  description: "I currently lead a Data Science team that works on the development of full cycle Machine Learning solutions.
+                  They are aimed at increasing the average check and amount of transactions in digital channels (kiosks, mobile app, website) 
+                  of KFC restaurants in CIS & Eastern Europe regions.  <br><br>
+                Projects include:
+                <ul>
+                <li> Recommender systems for authorized & non-auhorized users </li>
+                <li> Geo-scoring and automated site assessment (for new restaurant openings) </li>
+                <li> Propensity & Look-alike modelling for advanced marketing campaigns </li>
+                </ul>"
+
+- title: Senior Data Scientist
+  image: "<img src='/images/ibm.png' style='width:80px;height:42px;' align='left'>"
+  institution: IBM
+  from: July 2018
+  to: September 2019
+  description: "Team member of Advanced Analytics group in IBM's department of Global Business Services.
+                Projects delivered:
+                  <ul>
+                <li> Analytical ecosystem for a Bank in Kazakhstan (Data Lake, ML models toolbox, documentation, on-site trainings for staff) </li>
+                <li> Materials analogue selection system for Oil&Gas company (parsing, rule-based decision system, FLASK API, UI) </li>
+                <li> Optimization wagon addressing solution for a mining company (Discrete math + Linear programming) </li>
+                </ul>"
+
+
+- title: Data Scientist, AML
+  image: "<img src='/images/alfa_bank.png' style='float:left;width:42px;height:42px;'>"
+  institution: Alfa-Bank
+  from: March 2017
+  to: July 2018
+  description: "<ul>
+                <li>Developed machine learning models for automatisation of AML processes (↑ 14 % weekly automated
+                clients ban)</li>
+                <li>Conducted Ad Hoc data mining projects in Compliance area (↑ 5% of compliance with Central Bank’s
+                requirements)</li>
+                </ul>"
+
+# - title: Forecasting Analyst, Construction & Materials
+#   image: "<img src='/images/cmpro.png' style='float:left;width:42px;height:42px;'>"
+#   institution: CM PRO
+#   from: May 2016
+#   to: January 2017
+#   description: "<ul>
+#                 <li>Developed econometric models of market demand for construction materials (85 econometric models for
+#                 cement consumption forecasting)</li>
+#                 <li>Time series data modelling of regional industrial production (Market research included in Sberbank CIB
+#                 Industry Overview 2016)</li></ul>"

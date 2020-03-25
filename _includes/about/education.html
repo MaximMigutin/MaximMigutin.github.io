@@ -1,0 +1,24 @@
+<div class="col mt-4">
+  <div class="timeline-body">
+    {% for item in site.data.education %}
+      <div class="timeline-item">
+        <div class="content">
+          <h3>{{ item.title }}</h3>
+
+          <h6 class="date">
+            {{ item.from }} — {{ item.to }}
+            <span style="float:right;">
+              {{ item.institution }}
+            </span>
+            <br>
+            <font color="#0C69AF"> <b>{{ item.result }} </b></font>
+            {{ item.grade }}
+          </h6>
+
+          <p>{{ item.description }}</p>
+          <p><b>Thesis</b>: {{ item.thesis}}</p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
