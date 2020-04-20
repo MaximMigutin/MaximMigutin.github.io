@@ -18,7 +18,7 @@ Here're the main points that strive to give a brief overview of me as a professi
 
 * Among all the domains of Machine Learning reals I'm particularly interested in <font color="#CD6A65"><b>Recommender Systems</b></font>
 
-* I often participate in meet-ups as a guest, give talks myself, teach in universities and try to stay conected with Academia
+* I often participate in meet-ups as a guest, give talks myself, teach in universities and try to stay connected with Academia
 
 * I have lived abroad in 2 countries: France & Republic of Korea
 
