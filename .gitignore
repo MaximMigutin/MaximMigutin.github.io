@@ -12,5 +12,5 @@ Gemfile.lock
 Preview.psd
 
 # Folders with projects&articles (while in development)
-_projects/
+# _projects/
 _posts/
