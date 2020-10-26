@@ -1,7 +1,7 @@
 - title: Lead Data Scientist
   image: "<img src='/images/yum.png' style='width:142px;height:42px;' align='left'>"
   institution: Yum! Brands
-  from: October 2019
+  from: 3Q 2019
   to: Present
   description: "I currently lead a Data Science team that works on the development of full cycle Machine Learning solutions.
                   They are aimed at increasing the average check and amount of transactions in digital channels (kiosks, mobile app, website) 
@@ -16,8 +16,8 @@
 - title: Senior Data Scientist
   image: "<img src='/images/ibm.png' style='width:80px;height:42px;' align='left'>"
   institution: IBM
-  from: July 2018
-  to: September 2019
+  from: 2018
+  to: 2019
   description: "Team member of Advanced Analytics group in IBM's department of Global Business Services.
                 Projects delivered:
                   <ul>
@@ -30,8 +30,8 @@
 - title: Data Scientist, AML
   image: "<img src='/images/alfa_bank.png' style='float:left;width:42px;height:42px;'>"
   institution: Alfa-Bank
-  from: March 2017
-  to: July 2018
+  from: 2016
+  to: 2018
   description: "<ul>
                 <li>Developed machine learning models for automatisation of AML processes (↑ 14 % weekly automated
                 clients ban)</li>
