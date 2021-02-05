@@ -6,12 +6,16 @@ weight: 2
 ---
 
 # **Expertise**
-This page gives an overview of my Data Science & Development toolbox. I typically use these technologies in my day-to-day work and in personal projects.
+This page gives an overview of my Data toolbox. It comprises Data Science & Data Engineering technologies. I typically use this stack in my day-to-day work and in  other projects as a consultant.
 
-My experience&expertise in Data Science comes from different industries and thus I'm familiar and comfortable with various instruments.
+My experience & expertise in Data comes from different industries and thus I'm familiar and comfortable with various instruments.
 
-Here are the main domain areas and frameworks that constitute to my scientific&technological stack:
+Here are the main domain areas and frameworks that constitute to my scientific & technological stack:
 
+* **Data storage systems**
+  * PostgreSQL, MS SQL Server, MySQL, ClickHouse
+* **ETL tools & Orchestration**
+  * Airflow, Luigi
 * **Machine Learning**
   * Scikit-learn, Scipy, XGBoost, CatBoost, etc.
   * T-SNE, UMAP, PCA, k-Means, DBSCAN, etc.
@@ -44,6 +48,46 @@ Here are the main domain areas and frameworks that constitute to my scientific&t
         <div class="col-sm">
       <img src='/images/bash.png' style='width:128px;height:128px;'>
       <p align="center">Bash</p>
+    </div>
+  </div>
+</div>
+
+<br><br>
+<center><h2><b>Data Storage Systems</b></h2></center>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <img src='/images/psql.png' style='width:128px;height:128px;'>
+      <p align="center">PostgreSQL</p>
+    </div>
+    <div class="col-sm">
+      <img src='/images/mysql.png' style='width:128px;height:128px;'>
+      <p align="center">MySQL</p>
+    </div>
+    <div class="col-sm">
+      <img src='/images/mssqlserver.png' style='width:128px;height:128px;'>
+      <p align="center">MS SQL Server</p>
+    </div>
+        <div class="col-sm">
+      <img src='/images/clickhouse.png' style='width:128px;height:128px;'>
+      <p align="center">ClickHouse</p>
+    </div>
+  </div>
+</div>
+
+<br><br>
+<center><h2><b>Orchestration</b></h2></center>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <img src='/images/airflow.png' style='width:128px;height:128px;'>
+      <p align="center">Airflow</p>
+    </div>
+    <div class="col-sm">
+      <img src='/images/luigi.png' style='width:128px;height:128px;'>
+      <p align="center">Luigi</p>
     </div>
   </div>
 </div>
@@ -93,29 +137,6 @@ Here are the main domain areas and frameworks that constitute to my scientific&t
   </div>
 </div>
 
-<br><br>
-<center><h2><b>IDE Platforms</b></h2></center>
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      <img src='/images/pycharm.png' style='width:128px;height:128px;'>
-      <p align="center">Pycharm</p>
-    </div>
-    <div class="col-sm">
-      <img src='/images/vscode.png' style='width:128px;height:128px;'>
-      <p align="center">VS Code</p>
-    </div>
-    <div class="col-sm">
-      <img src='/images/jupyter.png' style='width:128px;height:128px;'>
-      <p align="center">Jupyter</p>
-    </div>
-        <div class="col-sm">
-      <img src='/images/anaconda.png' style='width:128px;height:128px;'>
-      <p align="center">Anaconda</p>
-    </div>
-  </div>
-</div>
 
 <br><br>
 <center><h2><b>Version Control</b></h2></center>
@@ -159,12 +180,20 @@ Here are the main domain areas and frameworks that constitute to my scientific&t
       <p align="center">GraphViz</p>
     </div>
     <div class="col-sm">
-      <img src='/images/bokeh.png' style='width:128px;height:128px;'>
-      <p align="center">Bokeh</p>
+      <img src='/images/grafana.png' style='width:128px;height:128px;'>
+      <p align="center">Grafana</p>
     </div>
     <div class="col-sm">
       <img src='/images/qlik.png' style='width:128px;height:128px;'>
       <p align="center">qlik</p>
+    </div>
+    <div class="col-sm">
+      <img src='/images/redash.png' style='width:128px;height:128px;'>
+      <p align="center">ReDash</p>
+    </div>
+    <div class="col-sm">
+      <img src='/images/superset.png' style='width:128px;height:128px;'>
+      <p align="center">Superset</p>
     </div>
   </div>
 </div>
@@ -181,6 +210,10 @@ Here are the main domain areas and frameworks that constitute to my scientific&t
     <div class="col-sm">
       <img src='/images/docker.png' style='width:128px;height:128px;'>
       <p align="center">Docker</p>
+    </div>
+    <div class="col-sm">
+      <img src='/images/k8s.png' style='width:128px;height:128px;'>
+      <p align="center">k8s</p>
     </div>
         <div class="col-sm">
       <img src='/images/gunicorn.png' style='width:128px;height:128px;'>

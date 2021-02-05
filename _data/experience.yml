@@ -1,19 +1,18 @@
-- title: Lead Data Scientist
+- title: Data Team Lead
   image: "<img src='/images/yum.png' style='width:142px;height:42px;' align='left'>"
   institution: Yum! Brands
   from: 3Q 2019
   to: Present
-  description: "I currently lead a Data Science team that works on the development of full cycle Machine Learning solutions.
-                  They are aimed at increasing the average check and amount of transactions in digital channels (kiosks, mobile app, website) 
-                  of KFC restaurants in CIS & Eastern Europe regions.  <br><br>
-                Projects include:
+  description: "I currently lead my one-stop Data Team that designs and implements full-stack data solutions.
+                Strategically we're working on Analytics stream of a bigger KFC Ecosystem development (for CEE & CIS regions)  <br><br>
+                Project examples:
                 <ul>
-                <li> Recommender systems for authorized & non-auhorized users </li>
-                <li> Geo-scoring and automated site assessment (for new restaurant openings) </li>
-                <li> Propensity & Look-alike modelling for advanced marketing campaigns </li>
+                <li> Insights platform utilizing OLAP BD and viz tools like ReDash & Superset </li>
+                <li> Analytical MPP DWH aggregating data from dozens of sources across and outside of KFC</li>
+                <li> Food Recommender systems (Upsell software) for authorized & non-auhorized users of touch screen kiosks & mobile App</li>
                 </ul>"
 
-- title: Senior Data Scientist
+- title: Senior Consultant
   image: "<img src='/images/ibm.png' style='width:80px;height:42px;' align='left'>"
   institution: IBM
   from: 2018
@@ -27,7 +26,7 @@
                 </ul>"
 
 
-- title: Data Scientist, AML
+- title: Anti-Money Laundering Scientist
   image: "<img src='/images/alfa_bank.png' style='float:left;width:42px;height:42px;'>"
   institution: Alfa-Bank
   from: 2016

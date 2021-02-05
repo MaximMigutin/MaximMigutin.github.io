@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : "Maxim Migutin"
-description         : "Welcome! I am a <font color='#0C69AF'><b>Data Science Team Lead</b></font> with a background in
+description         : "Welcome! I am a <font color='#0C69AF'><b>Data Team Lead</b></font> with a background in
                       <font color='#0C69AF'><b>Mathematical Economics</b></font>
                       and
                       <font color='#0C69AF'><b>Operations Research</b></font> ."
@@ -12,7 +12,7 @@ repository          : YoussefRaafatNasry/portfolYOU    # repository metadata on 
 ### Author Info ###
 author:
   name              : Maxim Migutin
-  image             : https://github.com/MaximMigutin/MaximMigutin.github.io/blob/master/images/profile_pic.png?raw=true
+  image             : https://github.com/MaximMigutin/MaximMigutin.github.io/blob/master/images/profile_pic.jpg?raw=true
   email             : maximmigutin"at"gmail.com
   github            : MaximMigutin
 # gitlab            : your_username
