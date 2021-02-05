@@ -62,7 +62,7 @@ Here are the main domain areas and frameworks that constitute to my scientific &
       <p align="center">PostgreSQL</p>
     </div>
     <div class="col-sm">
-      <img src='/images/mysql.png' style='width:128px;height:128px;'>
+      <img src='/images/mysql.png' style='width:160px;height:128px;'>
       <p align="center">MySQL</p>
     </div>
     <div class="col-sm">
@@ -70,7 +70,7 @@ Here are the main domain areas and frameworks that constitute to my scientific &
       <p align="center">MS SQL Server</p>
     </div>
         <div class="col-sm">
-      <img src='/images/clickhouse.png' style='width:128px;height:128px;'>
+      <img src='/images/clickhouse.png' style='width:256px;height:128px;'>
       <p align="center">ClickHouse</p>
     </div>
   </div>
@@ -82,11 +82,11 @@ Here are the main domain areas and frameworks that constitute to my scientific &
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src='/images/airflow.png' style='width:128px;height:128px;'>
+      <img src='/images/airflow.png' style='width:256px;height:128px;'>
       <p align="center">Airflow</p>
     </div>
     <div class="col-sm">
-      <img src='/images/luigi.png' style='width:128px;height:128px;'>
+      <img src='/images/luigi.png' style='width:170;height:128px;'>
       <p align="center">Luigi</p>
     </div>
   </div>
@@ -180,7 +180,7 @@ Here are the main domain areas and frameworks that constitute to my scientific &
       <p align="center">GraphViz</p>
     </div>
     <div class="col-sm">
-      <img src='/images/grafana.png' style='width:128px;height:128px;'>
+      <img src='/images/grafana.png' style='width:140;height:128px;'>
       <p align="center">Grafana</p>
     </div>
     <div class="col-sm">
@@ -188,11 +188,11 @@ Here are the main domain areas and frameworks that constitute to my scientific &
       <p align="center">qlik</p>
     </div>
     <div class="col-sm">
-      <img src='/images/redash.png' style='width:128px;height:128px;'>
+      <img src='/images/redash.png' style='width:170;height:128px;'>
       <p align="center">ReDash</p>
     </div>
     <div class="col-sm">
-      <img src='/images/superset.png' style='width:128px;height:128px;'>
+      <img src='/images/superset.png' style='width:190;height:128px;'>
       <p align="center">Superset</p>
     </div>
   </div>
@@ -212,7 +212,7 @@ Here are the main domain areas and frameworks that constitute to my scientific &
       <p align="center">Docker</p>
     </div>
     <div class="col-sm">
-      <img src='/images/k8s.png' style='width:128px;height:128px;'>
+      <img src='/images/k8s.png' style='width:160px;height:128px;'>
       <p align="center">k8s</p>
     </div>
         <div class="col-sm">

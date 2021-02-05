@@ -12,9 +12,9 @@ Hi I am <font color="#0D47A1"><b>{{ site.author.name }}</b></font>!<br>
 Here're the main points that strive to give a brief overview of me as a professional and a personality:  
 * I am a Data Team Lead (Full Stack Data Professional & Manager) who currently enjoys working in QSR (Quick service restaurants) industry
 
-* My academic background(also pursuing a PhD now) is in <font color="#CD6A65"><b>Mathematical Economics & Opearations Research</b></font>
+* My academic background(pursuing a PhD in Recommender Systems now) is in <font color="#CD6A65"><b>Mathematical Economics & Opearations Research</b></font>
 
-* My main area of interests is developong "full cycle" data solutions to solve business problems
+* My main area of interests is developing "full cycle" data solutions to solve business problems
 
 * Among all the domains of Machine Learning realms I'm particularly interested in <font color="#CD6A65"><b>Recommender Systems</b></font>
 

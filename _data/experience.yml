@@ -7,8 +7,8 @@
                 Strategically we're working on Analytics stream of a bigger KFC Ecosystem development (for CEE & CIS regions)  <br><br>
                 Project examples:
                 <ul>
-                <li> Insights platform utilizing OLAP BD and viz tools like ReDash & Superset </li>
                 <li> Analytical MPP DWH aggregating data from dozens of sources across and outside of KFC</li>
+                <li> Insights platform utilizing OLAP BD and viz tools like ReDash & Superset </li>
                 <li> Food Recommender systems (Upsell software) for authorized & non-auhorized users of touch screen kiosks & mobile App</li>
                 </ul>"
 
