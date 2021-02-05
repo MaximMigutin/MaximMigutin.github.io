@@ -208,7 +208,7 @@ Here are the main domain areas and frameworks that constitute to my scientific &
       <p align="center">Docker</p>
     </div>
     <div class="col-sm">
-      <img src='/images/k8s.png' style='width:210px;height:128px;'>
+      <img src='/images/k8s.png' style='width:140px;height:128px;'>
       <p align="center">k8s</p>
     </div>
         <div class="col-sm">
