@@ -172,10 +172,6 @@ Here are the main domain areas and frameworks that constitute to my scientific &
       <p align="center">Plotly</p>
     </div>
     <div class="col-sm">
-      <img src='/images/dash.png' style='width:128px;height:128px;'>
-      <p align="center">Dash</p>
-    </div>
-    <div class="col-sm">
       <img src='/images/graphviz.png' style='width:128px;height:128px;'>
       <p align="center">GraphViz</p>
     </div>
@@ -188,11 +184,11 @@ Here are the main domain areas and frameworks that constitute to my scientific &
       <p align="center">qlik</p>
     </div>
     <div class="col-sm">
-      <img src='/images/redash.png' style='width:170;height:128px;'>
+      <img src='/images/redash.png' style='width:210;height:128px;'>
       <p align="center">ReDash</p>
     </div>
     <div class="col-sm">
-      <img src='/images/superset.png' style='width:190;height:128px;'>
+      <img src='/images/superset.png' style='width:210;height:128px;'>
       <p align="center">Superset</p>
     </div>
   </div>
@@ -212,7 +208,7 @@ Here are the main domain areas and frameworks that constitute to my scientific &
       <p align="center">Docker</p>
     </div>
     <div class="col-sm">
-      <img src='/images/k8s.png' style='width:160px;height:128px;'>
+      <img src='/images/k8s.png' style='width:210px;height:128px;'>
       <p align="center">k8s</p>
     </div>
         <div class="col-sm">
